@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+- 🔭 I’m currently working on a Gameboy emulator because of the nostalgia
+- 🌱 I’m currently learning more about Amazon Web Services cloud computing platforms
+- 💬 Ask me about anything! I dont bite :dog:
+- 📫 How to reach me: Say hi on my portfolio at www.kyman.tech
+
 [![Daniel's github stats](https://github-readme-stats.vercel.app/api?username=danielkyman&theme=monokai&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielkyman&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)

@@ -16,10 +16,11 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working on a Gameboy emulator because of the nostalgia
-- 🌱 I’m currently learning more about Amazon Web Services cloud computing platforms
+- 🔭 I’m currently working on a Gameboy emulator because of the nostalgia 😄
+- 🌱 I’m currently learning more about Amazon Web Services cloud computing platform
 - 💬 Ask me about anything! I dont bite :dog:
 - 📫 How to reach me: Say hi on my portfolio at www.kyman.tech
+- ⚡ Fun fact: I do a coding challenge every night before bed
 
 [![Daniel's github stats](https://github-readme-stats.vercel.app/api?username=danielkyman&theme=monokai&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
